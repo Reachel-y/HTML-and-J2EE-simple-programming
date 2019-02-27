@@ -1,0 +1,20 @@
+@charset "UTF-8";
+table,td{
+	border-collapse:collapse;
+	border:1px solid black;
+	width:500px;
+	height:20px;
+	margin:50px auto;
+	text-align:left;
+	
+	
+}
+span{
+	position:relative;
+	float:right;
+	padding-right:180px;
+}
+#submit{
+	float:right;
+	padding-right:230px;
+}
